@@ -1,7 +1,7 @@
 # Taipei MRT Hourly Traffic Analysis
 
 ## About
-This project is based on the [Taipei MRT Hourly Traffic Data](https://www.kaggle.com/datasets/bethouyang/taipei-mrt-hourly-traffic-data), conducting a dive into Taipei's MRT traffic patterns. The approaches that have been tried can be found in the `analysis/analysis.ipynb`.
+This project is based on the [Taipei MRT Hourly Traffic Data](https://www.kaggle.com/datasets/bethouyang/taipei-mrt-hourly-traffic-data), conducting a dive into Taipei's MRT traffic patterns. The approaches that have been tried can be found in the `analysis/analysis.ipynb`, while most of them are still remain a work in progress.
 
 ## Finished Approaches 
 The approaches that have been done and wrapped up:
