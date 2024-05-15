@@ -1,0 +1,12 @@
+name: tpe_mrt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - python
+  - plotly
+  - matplotlib
+  - scikit-learn
+  - pyarrow
